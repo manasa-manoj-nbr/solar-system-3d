@@ -47,12 +47,15 @@ A stunning interactive 3D Solar System built with **Three.js**, demonstrating ad
 ---
 
 ### Project Structure
+
+```
 solar-system-3d/
-├── index.html # Main HTML structure
-├── style.css # Complete styling and responsive design
-├── app.js # Core Three.js application logic
-└── README.md # This documentation
----
+├── index.html      # Main HTML structure
+├── style.css       # Complete styling and responsive design
+├── app.js          # Core Three.js application logic
+└── README.md       # This documentation
+```
+
 ---
 
 ## ✨ Code Highlights
